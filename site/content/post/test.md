@@ -2,7 +2,7 @@
 title: TEST
 date: 2017-09-15T13:01:39.246Z
 description: This is a test
-image: null
+image: /img/background-working-office.jpg
 ---
 allthisiscode
 
@@ -21,3 +21,4 @@ netlifyIdentity.init(); // initialize it
 netlifyIdentity.open(); // open the modal
 
 \`\`\`
+
